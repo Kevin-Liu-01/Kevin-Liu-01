@@ -12,9 +12,6 @@ Hi👋, I'm Kevin Liu!
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&count_private=true&show_icons=true&theme=dark&line_height=27" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&langs_count=3&theme=dark" />
-</a>
 
 <div>
   <a href="https://www.typescriptlang.org/">
