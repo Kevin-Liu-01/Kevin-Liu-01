@@ -1,4 +1,5 @@
-Hi👋, I'm Kevin Liu! Personal Website: https://www.kevinliu.biz/
+Hi👋, I'm Kevin Liu! 
+Check out my Portfolio: https://www.kevinliu.biz/
 
 <div>
   <a href="https://www.linkedin.com/in/kevin-liu-2495b6205">
