@@ -1,30 +1,49 @@
-Hi👋, I'm Kevin Liu! 
+<h2 align="center">:wave: About Me</h2>
 
-Check out my Portfolio: https://www.kevinliu.biz/
+<h5 align="center">
+<a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn Profile">
+  <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+  LinkedIn
+</a> •
+<a href="https://github.com/Kevin-Liu-01" title="GitHub Profile">
+  <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg">
+  GitHub
+</a> •
+  <a href="https://leetcode.com/u/Graesson/" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
+   <a href="https://www.kevinliu.biz/" title="Personal Website"><img width="22" src="https://www.kevinliu.biz/_next/image?url=%2Fimages%2Ftriangle.png&w=828&q=75"> Personal Website</a>
 
-<div>
-  <a href="https://www.linkedin.com/in/kevin-liu-2495b6205">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-informational?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2" />
-  </a>
-  <a href="https://devpost.com/Kevin-Liu-01">
-    <img alt="Devpost" src="https://img.shields.io/badge/Devpost-View%20%20my%20projects-informational?style=for-the-badge&logo=devpost&color=003E54&logoColor=003E54" />
-  </a>
-</div>
+</h5>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&count_private=true&show_icons=true&theme=dark&line_height=27" />
-</a>
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding Image" align="right" width="300" height="auto" />
 
-<div>
-  <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </a>
-</div>
- 
-[![](https://visitcount.itsvg.in/api?id=Kevin-Liu-01&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🎓 <b>I’m currently studying ... </b></br>
+      Computer Science at Princeton University
+- 🧪 <b>I'm currently working on ... </b></br> 
+  <a href="https://pawpointclicker.vercel.app/" title="PawPointClicker">
+  pawpointclicker
+</a>, a crazy cookie clicker clone for Princetonians
+- 🧠 <b>I'm currently learning about ... </b></br>
+  frontend technologies, databases, ML
+- 🔎 <b>I’m currently looking for ... </b></br>
+  R&D opportunities and a coffee
+- ⚡ <b>Fun facts:</b> </br>
+  powerlifter + bboy + casual sketchist
+
+<h2 align="center">:wrench: Languages and Tools</h2>
+<p align="center"> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></code>
+</p>
+
+<h2 align="center">:bar_chart: GitHub Stats</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&theme=radical&line_height=27" alt="Kevin's GitHub Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&theme=dark&background=141321" alt="Kevin's GitHub Streak Stats" />
+</p>
