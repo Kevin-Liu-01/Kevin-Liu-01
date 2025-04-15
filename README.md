@@ -42,8 +42,5 @@
 
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&theme=radical&line_height=27" alt="Kevin's GitHub Top Languages" />
-</p>
-<p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&theme=dark&background=141321" alt="Kevin's GitHub Streak Stats" />
 </p>
