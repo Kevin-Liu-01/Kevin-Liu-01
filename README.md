@@ -10,7 +10,7 @@
   GitHub
 </a> •
   <a href="https://leetcode.com/u/kliu01/" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
-   <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://www.kevin-liu.tech/_next/image?url=%2Fimages%2Ftriangle.png&w=828&q=75"> Personal Website</a>
+   <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png&w=828&q=75"> Personal Website</a>
 
 </h5>
 
