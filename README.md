@@ -19,15 +19,15 @@
 - 🎓 <b>I’m currently studying ... </b></br>
       Computer Science at Princeton University
 - 🧪 <b>I'm currently working on ... </b></br> 
-  <a href="https://pawpointclicker.vercel.app/" title="PawPointClicker">
-  pawpointclicker
+  <a href="https://princetontd/" title="Princeton Tower Defense">
+  princeton tower defense
 </a>, a crazy cookie clicker clone for Princetonians
 - 🧠 <b>I'm currently learning about ... </b></br>
-  frontend technologies, databases, ML
+  agent orchestration, computer use, containers, llm wikis
 - 🔎 <b>I’m currently looking for ... </b></br>
-  R&D opportunities and a coffee
+  keychron recs
 - ⚡ <b>Fun facts:</b> </br>
-  powerlifter + bboy + casual sketchist
+  powerlifter + bboy + casual sketcher
 
 <h2 align="center">:wrench: Languages and Tools</h2>
 <p align="center"> 
