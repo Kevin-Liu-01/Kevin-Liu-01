@@ -19,9 +19,9 @@
 - 🎓 <b>I’m currently studying ... </b></br>
       Computer Science at Princeton University
 - 🧪 <b>I'm currently working on ... </b></br> 
-  <a href="https://princetontd/" title="Princeton Tower Defense">
+  <a href="https://princetontd.vercel.app" title="Princeton Tower Defense">
   princeton tower defense
-</a>, a crazy cookie clicker clone for Princetonians
+</a>, a crazy kingdom rush clone for Princetonians
 - 🧠 <b>I'm currently learning about ... </b></br>
   agent orchestration, computer use, containers, llm wikis
 - 🔎 <b>I’m currently looking for ... </b></br>
