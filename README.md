@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://www.kevin-liu.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=hi%2C+I'm+kevin.;founding+engineer+%40+dedalus+labs+(yc+s25);princeton+cs+'28;I+build+agent+infrastructure+with+frontend+taste." alt="kevin liu — what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=hi%2C+I'm+kevin.;founding+engineer+%40+dedalus+labs+(yc+s25);princeton+cs+'28;I+build+agent+infrastructure+with+frontend+taste." alt="kevin liu — what I do" />
 </a>
 
 <br/>
@@ -17,6 +17,14 @@
 <a href="https://leetcode.com/u/kliu01/"><img src="https://img.shields.io/badge/leetcode-kliu01-000?style=for-the-badge&logo=leetcode&logoColor=fff&labelColor=000"/></a>
 <a href="mailto:k.bowen.liu@gmail.com"><img src="https://img.shields.io/badge/email-k.bowen.liu%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=000"/></a>
 
+<br/><br/>
+
+<a href="https://dedaluslabs.ai" title="dedalus labs"><img src="https://dedaluslabs.ai/apple-touch-icon.png" width="44" height="44"/></a>&nbsp;&nbsp;
+<a href="https://loooooop.vercel.app/" title="loop"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="44" height="44"/></a>&nbsp;&nbsp;
+<a href="https://princetontd.vercel.app" title="princeton tower defense"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="44" height="44"/></a>&nbsp;&nbsp;
+<a href="https://www.kevin-liu.tech/" title="kevin-liu.tech"><img src="https://kliu.vercel.app/images/logo.png" width="44" height="44"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Kevin-Liu-01" title="personal llm wiki"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="44" height="44"/></a>
+
 </div>
 
 ---
@@ -25,15 +33,13 @@
 
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" align="right" width="240"/>
 
-```ts
-const kevin = {
-  now:     "founding engineer @ dedalus labs (yc s25)",
-  past:    ["bloomberg ×2", "aws", "at&t labs", "ommc co-founder"],
-  pubs:    "2 — ieee + iyrc",
-  builds:  ["mcp sdks", "microvm sandboxes", "ui that feels right"],
-  irl:     ["powerlifter", "bboy", "casual sketcher"],
-};
-```
+<table>
+  <tr><td><b>now</b></td><td>founding engineer @ dedalus labs (yc s25)</td></tr>
+  <tr><td><b>past</b></td><td>bloomberg ×2 · aws · at&amp;t labs · ommc co-founder</td></tr>
+  <tr><td><b>pubs</b></td><td>2 — ieee + iyrc</td></tr>
+  <tr><td><b>builds</b></td><td>mcp sdks · microvm sandboxes · ui that feels right</td></tr>
+  <tr><td><b>irl</b></td><td>powerlifter · bboy · casual sketcher</td></tr>
+</table>
 
 ### now
 
