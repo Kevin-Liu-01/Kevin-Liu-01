@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://www.kevin-liu.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=hi%2C+I'm+kevin+%E2%80%94+I+build+agent+infrastructure.;founding+engineer+%40+dedalus+labs+(yc+s25);princeton+cs+'28+%C2%B7+research+w%2F+prof.+danqi+chen;obsessed+with+harnesses%2C+design%2C+and+systems+that+compound" alt="kevin liu — what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=hi%2C+I'm+kevin.;founding+engineer+%40+dedalus+labs+(yc+s25);princeton+cs+'28;I+build+agent+infrastructure+with+frontend+taste." alt="kevin liu — what I do" />
 </a>
 
 <br/>
@@ -23,33 +23,24 @@
 
 ### whoami
 
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" align="right" width="240"/>
+
 ```ts
 const kevin = {
-  role:        "founding engineer @ dedalus labs (yc s25)",
-  studying:    "cs @ princeton '28",
-  research:    "agent orchestration + harnessing w/ prof. danqi chen",
-  building:    ["mcp-powered sdks", "multi-tenant dauth", "microvm sandboxes"],
-  shipped:     ["bloomberg ml (x2)", "aws sde", "at&t labs — moe agents, -85% doc analysis"],
-  community:   "co-founder @ ommc — 501(c)(3), $32k raised, 6k+ students",
-  obsessed:    ["the scaffolding between models and tools",
-                "interfaces that feel right",
-                "knowledge systems that compound"],
-  irl:         ["powerlifter", "bboy", "casual sketcher"],
+  now:     "founding engineer @ dedalus labs (yc s25)",
+  past:    ["bloomberg ×2", "aws", "at&t labs", "ommc co-founder"],
+  pubs:    "2 — ieee + iyrc",
+  builds:  ["mcp sdks", "microvm sandboxes", "ui that feels right"],
+  irl:     ["powerlifter", "bboy", "casual sketcher"],
 };
 ```
 
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" align="right" width="260"/>
-
 ### now
 
-- [**dedalus labs**](https://dedaluslabs.ai) — building the multi-tenant auth layer (dauth) and the sandboxed execution surface for an mcp-powered agent sdk. learning what agents actually break on.
-- [**loop**](https://github.com/Kevin-Liu-01) — current research project with prof. danqi chen. treating the harness layer between models and tools as a first-class design surface.
-- [**princeton tower defense**](https://princetontd.vercel.app) — a kingdom rush clone for princetonians, because someone had to.
-- a [personal **llm wiki**](https://github.com/Kevin-Liu-01) — 229 pages, 99 skills, 14 cron-driven agents. the brain compounds in the background while I sleep.
-
-### currently into
-
-`agent harnesses` · `mcp server design` · `inference-time scaling` · `microvm orchestration` · `webgpu shaders` · `keychron switch lore`
+- [**dedalus labs**](https://dedaluslabs.ai) — multi-tenant auth (dauth) and microvm sandboxed execution for an mcp-powered agent sdk
+- [**loop**](https://github.com/Kevin-Liu-01) — current side project on agent harnesses
+- [**princeton tower defense**](https://princetontd.vercel.app) — kingdom rush, but for princetonians
+- a [personal **llm wiki**](https://github.com/Kevin-Liu-01) — 229 pages, 99 skills, 14 cron-driven agents
 
 ### stack
 
@@ -108,13 +99,7 @@ const kevin = {
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=9ca3af&include_all_commits=true&count_private=true&hide=contribs"/>
 <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff"/>
 
-<br/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&langs_count=8"/>
-
 </div>
-
-### contributions
 
 <div align="center">
 
@@ -124,10 +109,4 @@ const kevin = {
   <img alt="github snake" src="https://raw.githubusercontent.com/Kevin-Liu-01/Kevin-Liu-01/output/github-snake.svg"/>
 </picture>
 
-</div>
-
----
-
-<div align="center">
-<sub><i>powerlifter · bboy · casual sketcher · chronic kingdom rush enjoyer</i></sub>
 </div>
