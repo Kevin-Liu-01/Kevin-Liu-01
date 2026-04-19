@@ -27,13 +27,27 @@
 
 ### whoami
 
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" align="right" width="240"/>
-
 <table>
-  <tr><td><b>now</b></td><td>founding engineer @ dedalus labs (yc s25)</td></tr>
-  <tr><td><b>past</b></td><td>bloomberg ×2 · aws · at&amp;t labs · ommc co-founder</td></tr>
-  <tr><td><b>builds</b></td><td>mcp servers · microvm sandboxes · motion-heavy frontends · brains that compound</td></tr>
-  <tr><td><b>irl</b></td><td>powerlifter · bboy · casual sketcher</td></tr>
+<tr>
+<td valign="middle">
+
+```ts
+const kevin = {
+  now:    "founding engineer @ dedalus labs (yc s25)",
+  past:   ["bloomberg ×2", "aws", "at&t labs", "ommc co-founder"],
+  builds: ["mcp servers", "microvm sandboxes",
+           "motion-heavy frontends", "brains that compound"],
+  irl:    ["powerlifter", "bboy", "casual sketcher"],
+};
+```
+
+</td>
+<td valign="middle" width="280">
+
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="260"/>
+
+</td>
+</tr>
 </table>
 
 ### now
