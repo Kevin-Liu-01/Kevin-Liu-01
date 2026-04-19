@@ -36,8 +36,7 @@
 <table>
   <tr><td><b>now</b></td><td>founding engineer @ dedalus labs (yc s25)</td></tr>
   <tr><td><b>past</b></td><td>bloomberg ×2 · aws · at&amp;t labs · ommc co-founder</td></tr>
-  <tr><td><b>pubs</b></td><td>2 — ieee + iyrc</td></tr>
-  <tr><td><b>builds</b></td><td>mcp sdks · microvm sandboxes · ui that feels right</td></tr>
+  <tr><td><b>builds</b></td><td>mcp servers · microvm sandboxes · motion-heavy frontends · brains that compound</td></tr>
   <tr><td><b>irl</b></td><td>powerlifter · bboy · casual sketcher</td></tr>
 </table>
 
