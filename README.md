@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://www.kevin-liu.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=hi%2C+I'm+kevin%2C;a+founding+engineer+%40+dedalus+labs+(yc+s25);a+princeton+cs+'28;building+agent+infrastructure+with+frontend+taste;shipping+mcp+servers+and+microvm+sandboxes;obsessed+with+the+scaffolding+between+models+and+tools;wiring+up+brains+that+compound+while+I+sleep;powerlifter+%2F+bboy+%2F+casual+sketcher+off+the+clock" alt="kevin liu — what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=21&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=hi%2C+I'm+kevin%2C+founding+engineer+%40+dedalus+labs+(yc+s25);hi%2C+I'm+kevin%2C+a+princeton+cs+'28;hi%2C+I'm+kevin%2C+building+agent+infra+with+frontend+taste;hi%2C+I'm+kevin%2C+shipping+mcp+servers+and+microvm+sandboxes;hi%2C+I'm+kevin%2C+obsessed+with+the+space+between+models+and+tools;hi%2C+I'm+kevin%2C+wiring+up+brains+that+compound+while+I+sleep;hi%2C+I'm+kevin%2C+powerlifter+%2F+bboy+%2F+sketcher+off+the+clock" alt="kevin liu — what I do" />
 </a>
 
 <br/>
