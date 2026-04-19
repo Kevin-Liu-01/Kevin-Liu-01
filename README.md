@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/"><img src="https://img.shields.io/badge/linkedin-kevin--liu-000?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=000"/></a>
 <a href="https://github.com/Kevin-Liu-01"><img src="https://img.shields.io/badge/github-Kevin--Liu--01-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=000"/></a>
 <a href="https://leetcode.com/u/kliu01/"><img src="https://img.shields.io/badge/leetcode-kliu01-000?style=for-the-badge&logo=leetcode&logoColor=fff&labelColor=000"/></a>
-<a href="mailto:kbl2@princeton.edu"><img src="https://img.shields.io/badge/email-kbl2%40princeton.edu-000?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=000"/></a>
+<a href="mailto:k.bowen.liu@gmail.com"><img src="https://img.shields.io/badge/email-k.bowen.liu%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=000"/></a>
 
 </div>
 
