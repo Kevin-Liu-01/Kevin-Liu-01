@@ -43,8 +43,8 @@ const kevin = {
     <td><a href="https://dedaluslabs.ai"><b>dedalus labs</b></a> — multi-tenant auth (dauth) and microvm sandboxed execution for an mcp-powered agent sdk</td>
   </tr>
   <tr>
-    <td width="56" align="center"><a href="https://github.com/Kevin-Liu-01/loop"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/Kevin-Liu-01/loop"><b>loop</b></a> — current side project on agent harnesses</td>
+    <td width="56" align="center"><a href="https://loooooop.vercel.app/"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://loooooop.vercel.app/"><b>loop</b></a> — current side project on agent harnesses</td>
   </tr>
   <tr>
     <td width="56" align="center"><a href="https://princetontd.vercel.app"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="40" height="40"/></a></td>
