@@ -46,15 +46,7 @@
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141321&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Kevin's GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&theme=tokyonight&hide_border=true&background=141321&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" alt="Kevin's GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=8B5CF6&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=Kevin-Liu-01&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevin-Liu-01&bg_color=141321&color=c9d1d9&line=8B5CF6&point=F59E0B&area=true&hide_border=true&theme=tokyo-night" width="98%" alt="Contribution Graph" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&hide=contribs" alt="Kevin's GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=141321&stroke=ffffff&ring=ffffff&fire=F59E0B&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Kevin's GitHub Streak Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=141321&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
