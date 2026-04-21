@@ -51,6 +51,7 @@
       <img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
       <img src="https://img.shields.io/badge/-Three.js-111?style=flat-square&logo=threedotjs&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Framer%20Motion-111?style=flat-square&logo=framer&logoColor=0055FF"/>
+      <img src="https://img.shields.io/badge/-GSAP-111?style=flat-square&logo=greensock&logoColor=88CE02"/>
       <img src="https://img.shields.io/badge/-Figma-111?style=flat-square&logo=figma&logoColor=F24E1E"/>
     </td>
   </tr>
