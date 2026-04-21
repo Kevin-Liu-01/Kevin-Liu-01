@@ -1,13 +1,14 @@
-<h2 align="center">👋 About Me</h2>
-
-<h5 align="center">
-<a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
-<a href="https://github.com/Kevin-Liu-01" title="GitHub Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"> GitHub</a> •
-<a href="https://leetcode.com/u/kliu01/" title="Leetcode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
-<a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a> •
-<a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a> •
-<a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a>
-</h5>
+<table width="100%">
+  <tr>
+    <td valign="middle"><h2>👋 About Me</h2></td>
+    <td valign="middle" align="right">
+      <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
+      <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a> •
+      <a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a> •
+      <a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
