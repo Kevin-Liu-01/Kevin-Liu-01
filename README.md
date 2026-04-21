@@ -10,7 +10,9 @@
   GitHub
 </a> •
   <a href="https://leetcode.com/u/kliu01/" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
-   <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="28" src="https://kliu.vercel.app/images/logo.png"> Personal Website</a>
+   <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="28" src="https://kliu.vercel.app/images/logo.png"> Personal Website</a> •
+   <a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a> •
+   <a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a>
 
 </h5>
 
@@ -18,13 +20,9 @@
 
 - 🎓 <b>I’m currently studying ... </b></br>
       Computer Science at Princeton University
-- 💼 <b>I'm currently a founding engineer at ... </b></br>
-  <img src="https://dedaluslabs.ai/apple-touch-icon.png" width="22" align="center"/> <a href="https://dedaluslabs.ai" title="Dedalus Labs">dedalus labs</a> (yc s25), building mcp-powered agent infra
 - 🧪 <b>I'm currently working on ... </b></br>
   <img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="22" align="center"/> <a href="https://princetontd.vercel.app" title="Princeton Tower Defense">princeton tower defense</a>, a crazy kingdom rush clone for Princetonians</br>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="22" align="center"/> <a href="https://github.com/Kevin-Liu-01" title="Personal LLM Wiki">llm wiki</a>, 229 pages of compounding knowledge that runs itself
-- 🌀 <b>I'm currently tinkering with ... </b></br>
-  <img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="22" align="center"/> <a href="https://loooooop.vercel.app/" title="Loop">loop</a>, a side project on agent harnesses
 - 🧠 <b>I'm currently learning about ... </b></br>
   agent orchestration, computer use, containers, llm wikis
 - 🔎 <b>I’m currently looking for ... </b></br>
