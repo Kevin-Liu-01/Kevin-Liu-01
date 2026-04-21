@@ -1,18 +1,6 @@
 <h2 align="center">👋 About Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="22" height="22" align="absmiddle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>&nbsp;LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Kevin-Liu-01" title="GitHub"><img width="22" height="22" align="absmiddle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>&nbsp;GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/kliu01/" title="Leetcode"><img width="22" height="22" align="absmiddle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/>&nbsp;Leetcode</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" height="22" align="absmiddle" src="https://kliu.vercel.app/images/logo.png"/>&nbsp;kevin-liu.tech</a>
-  &nbsp;•&nbsp;
-  <a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" height="22" align="absmiddle" src="https://dedaluslabs.ai/apple-touch-icon.png"/>&nbsp;Dedalus</a>
-  &nbsp;•&nbsp;
-  <a href="https://loooooop.vercel.app/" title="Loop"><img width="22" height="22" align="absmiddle" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"/>&nbsp;Loop</a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="22" height="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>&nbsp;<a href="https://www.linkedin.com/in/kevin-liu-2495b6205/">LinkedIn</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://github.com/Kevin-Liu-01" title="GitHub"><img width="22" height="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/></a>&nbsp;<a href="https://github.com/Kevin-Liu-01">GitHub</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://leetcode.com/u/kliu01/" title="Leetcode"><img width="22" height="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></a>&nbsp;<a href="https://leetcode.com/u/kliu01/">Leetcode</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" height="22" src="https://kliu.vercel.app/images/logo.png"/></a>&nbsp;<a href="https://www.kevin-liu.tech/">kevin-liu.tech</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" height="22" src="https://dedaluslabs.ai/apple-touch-icon.png"/></a>&nbsp;<a href="https://dedaluslabs.ai">Dedalus</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://loooooop.vercel.app/" title="Loop"><img width="22" height="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"/></a>&nbsp;<a href="https://loooooop.vercel.app/">Loop</a></p>
 
 <br/>
 
