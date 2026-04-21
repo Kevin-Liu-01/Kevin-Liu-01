@@ -31,17 +31,54 @@
 
 <h2 align="center">:wrench: Languages and Tools</h2>
 
-<p align="center"><sub><b>languages</b></sub></p>
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" style="background:#fff;border-radius:8px;padding:2px"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></p>
-
-<p align="center"><sub><b>frontend</b></sub></p>
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/></p>
-
-<p align="center"><sub><b>agents / ai</b></sub></p>
-<p align="center"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="anthropic / mcp" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/10A37F" alt="openai" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cursor/000000" alt="cursor" width="40" height="40" style="background:#fff;border-radius:8px;padding:2px"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></p>
-
-<p align="center"><sub><b>backend / infra</b></sub></p>
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/ffffff" alt="vercel" width="40" height="40"/></p>
+<table align="center">
+  <tr>
+    <td><b>languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
+      <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57"/>
+      <img src="https://img.shields.io/badge/-Rust-111?style=flat-square&logo=rust&logoColor=DEA584"/>
+      <img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8"/>
+      <img src="https://img.shields.io/badge/-C%2FC%2B%2B-111?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+      <img src="https://img.shields.io/badge/-Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+      <img src="https://img.shields.io/badge/-Three.js-111?style=flat-square&logo=threedotjs&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Framer%20Motion-111?style=flat-square&logo=framer&logoColor=0055FF"/>
+      <img src="https://img.shields.io/badge/-Figma-111?style=flat-square&logo=figma&logoColor=F24E1E"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>agents / ai</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
+      <img src="https://img.shields.io/badge/-AI%20SDK-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+      <img src="https://img.shields.io/badge/-OpenAI-111?style=flat-square&logo=openai&logoColor=10A37F"/>
+      <img src="https://img.shields.io/badge/-Cursor-111?style=flat-square&logo=cursor&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Claude%20Code-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
+      <img src="https://img.shields.io/badge/-LangChain-111?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688"/>
+      <img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
+      <img src="https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/-Kubernetes-111?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
+      <img src="https://img.shields.io/badge/-AWS-111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+      <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 
