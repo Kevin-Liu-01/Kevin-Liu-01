@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td width="220" valign="middle"><h2>👋 About Me</h2></td>
+    <td width="240" valign="middle">&nbsp;&nbsp;<font size="6"><b>👋&nbsp; About Me</b></font></td>
     <td colspan="3" valign="middle" align="right">
       <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
       <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a> •
