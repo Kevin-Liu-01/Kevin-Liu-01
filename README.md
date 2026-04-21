@@ -1,15 +1,11 @@
 <table width="100%">
   <tr>
-    <td colspan="4">
-      <table width="100%" cellspacing="0" cellpadding="0"><tr>
-        <td width="30%" valign="middle"><h2>👋 About Me</h2></td>
-        <td width="70%" valign="middle" align="right">
-          <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
-          <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a> •
-          <a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a> •
-          <a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a>
-        </td>
-      </tr></table>
+    <td width="220" valign="middle"><h2>👋 About Me</h2></td>
+    <td colspan="3" valign="middle" align="right">
+      <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
+      <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a> •
+      <a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a> •
+      <a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a>
     </td>
   </tr>
   <tr>
@@ -82,12 +78,8 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4">
-      <table width="100%" cellspacing="3" cellpadding="0"><tr>
-        <td width="33.33%" align="center"><img height="115" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&hide_rank=true&hide=contribs" alt="Kevin's GitHub Stats"/></td>
-        <td width="33.33%" align="center"><img height="115" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=141321&stroke=ffffff&ring=ffffff&fire=F59E0B&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Kevin's GitHub Streak Stats"/></td>
-        <td width="33.33%" align="center"><img height="115" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=141321&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/></td>
-      </tr></table>
+    <td colspan="4" align="center">
+      <img height="115" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&hide_rank=true&hide=contribs" alt="Kevin's GitHub Stats"/>&nbsp;&nbsp;<img height="115" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=141321&stroke=ffffff&ring=ffffff&fire=F59E0B&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Kevin's GitHub Streak Stats"/>&nbsp;&nbsp;<img height="115" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=141321&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
