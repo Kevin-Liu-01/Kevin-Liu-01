@@ -51,12 +51,14 @@
   <tr>
     <td width="110" align="right"><b>languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
-      <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57"/>
-      <img src="https://img.shields.io/badge/-Rust-111?style=flat-square&logo=rust&logoColor=DEA584"/>
-      <img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8"/>
-      <img src="https://img.shields.io/badge/-C%2FC%2B%2B-111?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-      <img src="https://img.shields.io/badge/-Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+      <table cellspacing="3" cellpadding="0"><tr>
+        <td width="105" align="center"><img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/></td>
+        <td width="105" align="center"><img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57"/></td>
+        <td width="105" align="center"><img src="https://img.shields.io/badge/-Rust-111?style=flat-square&logo=rust&logoColor=DEA584"/></td>
+        <td width="105" align="center"><img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8"/></td>
+        <td width="105" align="center"><img src="https://img.shields.io/badge/-C%2FC%2B%2B-111?style=flat-square&logo=cplusplus&logoColor=00599C"/></td>
+        <td width="105" align="center"><img src="https://img.shields.io/badge/-Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00"/></td>
+      </tr></table>
     </td>
   </tr>
   <tr>
