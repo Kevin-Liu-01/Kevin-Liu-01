@@ -25,16 +25,12 @@
 - 🧠 &nbsp;<b>I'm currently learning about ...</b><br/>
   agent orchestration, computer use, containers, llm wikis
 
-- 🔎 &nbsp;<b>I'm currently looking for ...</b><br/>
-  keychron recs
-
-- ⚡ &nbsp;<b>Fun facts</b><br/>
-  powerlifter + bboy + casual sketcher
-
 </td>
 <td width="38%" valign="top" align="center">
 
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="300"/>
+
+<sub>⚡ powerlifter + bboy + casual sketcher</sub>
 
 </td>
 </tr>
