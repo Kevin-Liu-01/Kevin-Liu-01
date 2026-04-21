@@ -33,24 +33,31 @@
 
 <table align="center">
   <tr>
-    <td width="56" align="center"><a href="https://dedaluslabs.ai"><img src="https://dedaluslabs.ai/apple-touch-icon.png" width="40" height="40"/></a></td>
-    <td><a href="https://dedaluslabs.ai"><b>dedalus labs</b></a> — multi-tenant auth (dauth) and microvm sandboxed execution for an mcp-powered agent sdk</td>
-  </tr>
-  <tr>
-    <td width="56" align="center"><a href="https://loooooop.vercel.app/"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://loooooop.vercel.app/"><b>loop</b></a> — current side project on agent harnesses</td>
-  </tr>
-  <tr>
-    <td width="56" align="center"><a href="https://princetontd.vercel.app"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="40" height="40"/></a></td>
-    <td><a href="https://princetontd.vercel.app"><b>princeton tower defense</b></a> — kingdom rush, but for princetonians</td>
-  </tr>
-  <tr>
-    <td width="56" align="center"><a href="https://www.kevin-liu.tech/"><img src="https://kliu.vercel.app/images/logo.png" width="40" height="40"/></a></td>
-    <td><a href="https://www.kevin-liu.tech/"><b>kevin-liu.tech</b></a> — personal site / portfolio</td>
-  </tr>
-  <tr>
-    <td width="56" align="center"><a href="https://github.com/Kevin-Liu-01"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="40" height="40"/></a></td>
-    <td><b>personal llm wiki</b> — 229 pages, 99 skills, 14 cron-driven agents compounding the brain in the background</td>
+    <td width="20%" align="center">
+      <a href="https://dedaluslabs.ai"><img src="https://dedaluslabs.ai/apple-touch-icon.png" width="56" height="56"/></a><br/>
+      <a href="https://dedaluslabs.ai"><b>dedalus labs</b></a><br/>
+      <sub>mcp-powered agent sdk<br/>microvm sandboxes + dauth</sub>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://loooooop.vercel.app/"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="56" height="56"/></a><br/>
+      <a href="https://loooooop.vercel.app/"><b>loop</b></a><br/>
+      <sub>agent harnesses<br/>side project</sub>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://princetontd.vercel.app"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="56" height="56"/></a><br/>
+      <a href="https://princetontd.vercel.app"><b>princeton td</b></a><br/>
+      <sub>kingdom rush clone<br/>for princetonians</sub>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://www.kevin-liu.tech/"><img src="https://kliu.vercel.app/images/logo.png" width="56" height="56"/></a><br/>
+      <a href="https://www.kevin-liu.tech/"><b>kevin-liu.tech</b></a><br/>
+      <sub>personal site<br/>+ portfolio</sub>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://github.com/Kevin-Liu-01"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="56" height="56"/></a><br/>
+      <b>llm wiki</b><br/>
+      <sub>229 pages, 99 skills<br/>14 cron-driven agents</sub>
+    </td>
   </tr>
 </table>
 
