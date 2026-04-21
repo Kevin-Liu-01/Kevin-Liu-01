@@ -45,8 +45,10 @@
 
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&hide=contribs" alt="Kevin's GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=141321&stroke=ffffff&ring=ffffff&fire=F59E0B&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Kevin's GitHub Streak Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=141321&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td><img height="155" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&hide_rank=true&hide=contribs" alt="Kevin's GitHub Stats" /></td>
+    <td><img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=141321&stroke=ffffff&ring=ffffff&fire=F59E0B&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Kevin's GitHub Streak Stats" /></td>
+    <td><img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=141321&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages" /></td>
+  </tr>
+</table>
