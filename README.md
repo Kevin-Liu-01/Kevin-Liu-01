@@ -18,50 +18,19 @@
 
 - 🎓 <b>I’m currently studying ... </b></br>
       Computer Science at Princeton University
-- 🧪 <b>I'm currently working on ... </b></br> 
-  <a href="https://princetontd.vercel.app" title="Princeton Tower Defense">
-  princeton tower defense
-</a>, a crazy kingdom rush clone for Princetonians
+- 💼 <b>I'm currently a founding engineer at ... </b></br>
+  <img src="https://dedaluslabs.ai/apple-touch-icon.png" width="22" align="center"/> <a href="https://dedaluslabs.ai" title="Dedalus Labs">dedalus labs</a> (yc s25), building mcp-powered agent infra
+- 🧪 <b>I'm currently working on ... </b></br>
+  <img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="22" align="center"/> <a href="https://princetontd.vercel.app" title="Princeton Tower Defense">princeton tower defense</a>, a crazy kingdom rush clone for Princetonians</br>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="22" align="center"/> <a href="https://github.com/Kevin-Liu-01" title="Personal LLM Wiki">llm wiki</a>, 229 pages of compounding knowledge that runs itself
+- 🌀 <b>I'm currently tinkering with ... </b></br>
+  <img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="22" align="center"/> <a href="https://loooooop.vercel.app/" title="Loop">loop</a>, a side project on agent harnesses
 - 🧠 <b>I'm currently learning about ... </b></br>
   agent orchestration, computer use, containers, llm wikis
 - 🔎 <b>I’m currently looking for ... </b></br>
   keychron recs
 - ⚡ <b>Fun facts:</b> </br>
   powerlifter + bboy + casual sketcher
-
-<h2 align="center">:rocket: Currently Building</h2>
-
-<table align="center">
-  <tr>
-    <td width="20%" align="center">
-      <a href="https://dedaluslabs.ai"><img src="https://dedaluslabs.ai/apple-touch-icon.png" width="56" height="56"/></a><br/>
-      <a href="https://dedaluslabs.ai"><b>dedalus labs</b></a><br/>
-      <sub>mcp-powered agent sdk<br/>microvm sandboxes + dauth</sub>
-    </td>
-    <td width="20%" align="center">
-      <a href="https://loooooop.vercel.app/"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg" width="56" height="56"/></a><br/>
-      <a href="https://loooooop.vercel.app/"><b>loop</b></a><br/>
-      <sub>agent harnesses<br/>side project</sub>
-    </td>
-    <td width="20%" align="center">
-      <a href="https://princetontd.vercel.app"><img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="56" height="56"/></a><br/>
-      <a href="https://princetontd.vercel.app"><b>princeton td</b></a><br/>
-      <sub>kingdom rush clone<br/>for princetonians</sub>
-    </td>
-    <td width="20%" align="center">
-      <a href="https://www.kevin-liu.tech/"><img src="https://kliu.vercel.app/images/logo.png" width="56" height="56"/></a><br/>
-      <a href="https://www.kevin-liu.tech/"><b>kevin-liu.tech</b></a><br/>
-      <sub>personal site<br/>+ portfolio</sub>
-    </td>
-    <td width="20%" align="center">
-      <a href="https://github.com/Kevin-Liu-01"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="56" height="56"/></a><br/>
-      <b>llm wiki</b><br/>
-      <sub>229 pages, 99 skills<br/>14 cron-driven agents</sub>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">:wrench: Languages and Tools</h2>
 
 <table align="center">
   <tr>
@@ -112,8 +81,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">:bar_chart: GitHub Stats</h2>
 
 <table align="center">
   <tr>
