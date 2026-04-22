@@ -3,6 +3,7 @@
     <td width="240" valign="middle">&nbsp;&nbsp;<font size="6"><b>👋&nbsp; About Me</b></font></td>
     <td colspan="3" valign="middle" align="right">
       <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
+      <a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="22" src="https://cdn.simpleicons.org/x/ffffff"> X</a> •
       <a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a> •
       <a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a> •
       <a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a>
