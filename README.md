@@ -9,7 +9,9 @@
     <td align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
   </tr>
   <tr>
-<td colspan="5" valign="top">
+    <td colspan="7">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
+<td width="62%" valign="top">
 
 - 🎓 &nbsp;<b>I'm currently studying ...</b><br/>
   Computer Science at Princeton University
@@ -22,13 +24,15 @@
   agent orchestration, computer use, containers, llm wikis
 
 </td>
-<td colspan="2" valign="top" align="center">
+<td width="38%" valign="top" align="center">
 
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="300"/>
 
 <sub>⚡ powerlifter + bboy + casual sketcher</sub>
 
 </td>
+      </tr></table>
+    </td>
   </tr>
   <tr>
     <td align="right"><b>languages</b></td>
