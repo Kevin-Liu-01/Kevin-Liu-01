@@ -1,19 +1,15 @@
 <table width="100%">
   <tr>
     <td width="240" valign="middle">&nbsp;&nbsp;<font size="6"><b>👋&nbsp; About Me</b></font></td>
-    <td colspan="3" valign="middle" align="right">
-      <table align="right" cellpadding="8"><tr>
-        <td align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
-        <td align="center"><a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="22" src="https://cdn.simpleicons.org/x/ffffff"></a></td>
-        <td align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="22" src="https://cdn.simpleicons.org/devpost/003E54"></a></td>
-        <td align="center"><a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a></td>
-        <td align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a></td>
-        <td align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a></td>
-      </tr></table>
-    </td>
+    <td align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
+    <td align="center"><a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="22" src="https://cdn.simpleicons.org/x/ffffff"></a></td>
+    <td align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="22" src="https://cdn.simpleicons.org/devpost/003E54"></a></td>
+    <td align="center"><a href="https://www.kevin-liu.tech/" title="Personal Website"><img width="22" src="https://kliu.vercel.app/images/logo.png"> kevin-liu.tech</a></td>
+    <td align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="22" src="https://dedaluslabs.ai/apple-touch-icon.png"> Dedalus</a></td>
+    <td align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="22" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"> Loop</a></td>
   </tr>
   <tr>
-<td colspan="3" valign="top">
+<td colspan="5" valign="top">
 
 - 🎓 &nbsp;<b>I'm currently studying ...</b><br/>
   Computer Science at Princeton University
@@ -26,7 +22,7 @@
   agent orchestration, computer use, containers, llm wikis
 
 </td>
-<td valign="top" align="center">
+<td colspan="2" valign="top" align="center">
 
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="300"/>
 
@@ -35,8 +31,8 @@
 </td>
   </tr>
   <tr>
-    <td width="110" align="right"><b>languages</b></td>
-    <td colspan="3">
+    <td align="right"><b>languages</b></td>
+    <td colspan="6">
       <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
       <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57"/>
       <img src="https://img.shields.io/badge/-Rust-111?style=flat-square&logo=rust&logoColor=DEA584"/>
@@ -46,8 +42,8 @@
     </td>
   </tr>
   <tr>
-    <td width="110" align="right"><b>frontend</b></td>
-    <td colspan="3">
+    <td align="right"><b>frontend</b></td>
+    <td colspan="6">
       <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
@@ -58,8 +54,8 @@
     </td>
   </tr>
   <tr>
-    <td width="110" align="right"><b>agents / ai</b></td>
-    <td colspan="3">
+    <td align="right"><b>agents / ai</b></td>
+    <td colspan="6">
       <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
       <img src="https://img.shields.io/badge/-AI%20SDK-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
@@ -70,8 +66,8 @@
     </td>
   </tr>
   <tr>
-    <td width="110" align="right"><b>infra</b></td>
-    <td colspan="3">
+    <td align="right"><b>infra</b></td>
+    <td colspan="6">
       <img src="https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688"/>
       <img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
       <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
@@ -82,7 +78,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4" align="center">
+    <td colspan="7" align="center">
       <img height="115" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&hide_rank=true&hide=contribs" alt="Kevin's GitHub Stats"/>&nbsp;&nbsp;<img height="115" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=141321&stroke=ffffff&ring=ffffff&fire=F59E0B&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Kevin's GitHub Streak Stats"/>&nbsp;&nbsp;<img height="115" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=141321&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
