@@ -1,12 +1,12 @@
 <table width="100%">
   <tr>
     <td valign="middle">&nbsp;&nbsp;<font size="6"><b>👋&nbsp; About Me</b></font></td>
-    <td align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
-    <td align="center"><a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="26" src="https://cdn.simpleicons.org/x/ffffff"></a></td>
-    <td align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="26" src="https://cdn.simpleicons.org/devpost/003E54"></a></td>
-    <td align="center"><a href="https://www.kevin-liu.tech/" title="kevin-liu.tech"><img width="26" src="https://kliu.vercel.app/images/logo.png"></a></td>
-    <td align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="26" src="https://dedaluslabs.ai/apple-touch-icon.png"></a></td>
-    <td align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"><br/><sub>LinkedIn</sub></a></td>
+    <td align="center"><a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="26" src="https://cdn.simpleicons.org/x/ffffff"><br/><sub>X</sub></a></td>
+    <td align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="26" src="https://cdn.simpleicons.org/devpost/003E54"><br/><sub>Devpost</sub></a></td>
+    <td align="center"><a href="https://www.kevin-liu.tech/" title="kevin-liu.tech"><img width="26" src="https://kliu.vercel.app/images/logo.png"><br/><sub>Site</sub></a></td>
+    <td align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="26" src="https://dedaluslabs.ai/apple-touch-icon.png"><br/><sub>Dedalus</sub></a></td>
+    <td align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"><br/><sub>Loop</sub></a></td>
   </tr>
   <tr>
 <td colspan="5" valign="top">
