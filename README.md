@@ -1,17 +1,15 @@
 <table width="100%">
   <tr>
-    <td valign="middle">&nbsp;&nbsp;<font size="6"><b>👋&nbsp; About Me</b></font></td>
-    <td align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
-    <td align="center"><a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="26" src="https://cdn.simpleicons.org/x/ffffff"></a></td>
-    <td align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="26" src="https://cdn.simpleicons.org/devpost/003E54"></a></td>
-    <td align="center"><a href="https://www.kevin-liu.tech/" title="kevin-liu.tech"><img width="26" src="https://kliu.vercel.app/images/logo.png"></a></td>
-    <td align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="26" src="https://dedaluslabs.ai/apple-touch-icon.png"></a></td>
-    <td align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
+    <td width="60%" valign="middle">&nbsp;&nbsp;<font size="6"><b>👋&nbsp; About Me</b></font></td>
+    <td width="48" align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
+    <td width="48" align="center"><a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="26" src="https://cdn.simpleicons.org/x/ffffff"></a></td>
+    <td width="48" align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="26" src="https://cdn.simpleicons.org/devpost/003E54"></a></td>
+    <td width="48" align="center"><a href="https://www.kevin-liu.tech/" title="kevin-liu.tech"><img width="26" src="https://kliu.vercel.app/images/logo.png"></a></td>
+    <td width="48" align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="26" src="https://dedaluslabs.ai/apple-touch-icon.png"></a></td>
+    <td width="48" align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
   </tr>
   <tr>
-    <td colspan="7">
-      <table width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
-<td width="62%" valign="top">
+<td colspan="5" valign="top">
 
 - 🎓 &nbsp;<b>I'm currently studying ...</b><br/>
   Computer Science at Princeton University
@@ -24,15 +22,13 @@
   agent orchestration, computer use, containers, llm wikis
 
 </td>
-<td width="38%" valign="top" align="center">
+<td colspan="2" valign="top" align="center">
 
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="300"/>
 
 <sub>⚡ powerlifter + bboy + casual sketcher</sub>
 
 </td>
-      </tr></table>
-    </td>
   </tr>
   <tr>
     <td align="right"><b>languages</b></td>
