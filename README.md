@@ -6,7 +6,7 @@
     <td align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="26" src="https://cdn.simpleicons.org/devpost/003E54"></a></td>
     <td align="center"><a href="https://www.kevin-liu.tech/" title="kevin-liu.tech"><img width="26" src="https://kliu.vercel.app/images/logo.png"></a></td>
     <td align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="26" src="https://dedaluslabs.ai/apple-touch-icon.png"></a></td>
-    <td align="center"><a href="https://loooooop.vercel.app/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
+    <td align="center"><a href="https://www.loooop.dev/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
   </tr>
   <tr>
 <td colspan="5" valign="top">
