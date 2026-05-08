@@ -9,26 +9,10 @@
     <td align="center"><a href="https://www.loooop.dev/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
   </tr>
   <tr>
-<td colspan="5" valign="top">
-
-- 🎓 &nbsp;<b>I'm currently studying ...</b><br/>
-  Computer Science at Princeton University
-
-- 🧪 &nbsp;<b>I'm currently working on ...</b><br/>
-  <img src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/logos/princeton-td-logo.png" width="20" align="absmiddle"/>&nbsp;<a href="https://princetontd.vercel.app"><b>princeton tower defense</b></a> — a kingdom rush clone for princetonians<br/>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="20" align="absmiddle"/>&nbsp;<a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"><b>llm wiki</b></a> — a karpathy-style brain that quietly maintains itself
-
-- 🧠 &nbsp;<b>I'm currently learning about ...</b><br/>
-  agent orchestration, computer use, containers, llm wikis
-
-</td>
-<td colspan="2" valign="top" align="center">
-
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="300"/>
-
-<sub>⚡ powerlifter + bboy + casual sketcher</sub>
-
-</td>
+    <td colspan="7" align="center">
+      <a href="https://www.agent-machines.dev"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=Agent-Machines&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>&nbsp;<a href="https://sigil-ui-web.vercel.app"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=Sigil-UI&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>
+      <a href="https://www.loooop.dev/"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=loop&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>&nbsp;<a href="https://ptd.quest"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=Princeton-Tower-Defense&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>
+    </td>
   </tr>
   <tr>
     <td align="right"><b>languages</b></td>
