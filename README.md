@@ -10,8 +10,8 @@
   </tr>
   <tr>
     <td colspan="7" align="center">
-      <a href="https://www.agent-machines.dev"><img width="49%" src="https://www.kevin-liu.tech/images/projects/agent-machines.png" alt="Agent Machines" /></a>&nbsp;<a href="https://sigil-ui.com"><img width="49%" src="https://www.kevin-liu.tech/images/projects/sigil-ui.png" alt="Sigil UI" /></a>
-      <a href="https://www.loooop.dev/"><img width="49%" src="https://www.kevin-liu.tech/images/projects/loooop.png" alt="Loooop" /></a>&nbsp;<a href="https://ptd.quest"><img width="49%" src="https://www.kevin-liu.tech/images/projects/ptd.png" alt="Princeton Tower Defense" /></a>
+      <a href="https://www.agent-machines.dev"><img width="49%" src="https://www.kevin-liu.tech/images/agentmachines.png" alt="Agent Machines" /></a>&nbsp;<a href="https://sigil-ui.com"><img width="49%" src="https://www.kevin-liu.tech/images/sigil-ui.png" alt="Sigil UI" /></a>
+      <a href="https://www.loooop.dev/"><img width="49%" src="https://www.kevin-liu.tech/images/loop-homepage.png" alt="Loooop" /></a>&nbsp;<a href="https://ptd.quest"><img width="49%" src="https://www.kevin-liu.tech/images/princetontd/gameplay_grounds_ui.png" alt="Princeton Tower Defense" /></a>
     </td>
   </tr>
   <tr>
@@ -59,11 +59,6 @@
       <img src="https://img.shields.io/badge/-Kubernetes-111?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
       <img src="https://img.shields.io/badge/-AWS-111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="7" align="center">
-      <img height="115" src="https://github-readme-stats.vercel.app/api?username=Kevin-Liu-01&show_icons=true&hide_border=true&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&hide_rank=true&hide=contribs" alt="Kevin's GitHub Stats"/>&nbsp;&nbsp;<img height="115" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Liu-01&hide_border=true&background=141321&stroke=ffffff&ring=ffffff&fire=F59E0B&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Kevin's GitHub Streak Stats"/>&nbsp;&nbsp;<img height="115" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Liu-01&layout=compact&hide_border=true&bg_color=141321&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
