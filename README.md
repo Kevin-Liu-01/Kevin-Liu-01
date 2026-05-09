@@ -10,8 +10,8 @@
   </tr>
   <tr>
     <td colspan="7" align="center">
-      <a href="https://www.agent-machines.dev"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=Agent-Machines&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>&nbsp;<a href="https://sigil-ui-web.vercel.app"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=Sigil-UI&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>
-      <a href="https://www.loooop.dev/"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=loop&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>&nbsp;<a href="https://ptd.quest"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-Liu-01&repo=Princeton-Tower-Defense&bg_color=141321&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&hide_border=true" /></a>
+      <a href="https://www.agent-machines.dev"><img width="49%" src="https://www.kevin-liu.tech/images/projects/agent-machines.png" alt="Agent Machines" /></a>&nbsp;<a href="https://sigil-ui.com"><img width="49%" src="https://www.kevin-liu.tech/images/projects/sigil-ui.png" alt="Sigil UI" /></a>
+      <a href="https://www.loooop.dev/"><img width="49%" src="https://www.kevin-liu.tech/images/projects/loooop.png" alt="Loooop" /></a>&nbsp;<a href="https://ptd.quest"><img width="49%" src="https://www.kevin-liu.tech/images/projects/ptd.png" alt="Princeton Tower Defense" /></a>
     </td>
   </tr>
   <tr>
