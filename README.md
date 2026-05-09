@@ -10,8 +10,10 @@
   </tr>
   <tr>
     <td colspan="7" align="center">
-      <a href="https://www.agent-machines.dev"><img width="49%" src="https://www.kevin-liu.tech/images/agentmachines.png" alt="Agent Machines" /></a>&nbsp;<a href="https://sigil-ui.com"><img width="49%" src="https://www.kevin-liu.tech/images/sigil-ui.png" alt="Sigil UI" /></a>
-      <a href="https://www.loooop.dev/"><img width="49%" src="https://www.kevin-liu.tech/images/loop-homepage.png" alt="Loooop" /></a>&nbsp;<a href="https://ptd.quest"><img width="49%" src="https://www.kevin-liu.tech/images/princetontd/gameplay_grounds_ui.png" alt="Princeton Tower Defense" /></a>
+      <a href="https://loooop.dev/"><img width="49%" src="https://raw.githubusercontent.com/Kevin-Liu-01/PortfolioMon-Showdown/main/public/images/loop-homepage.png" alt="Loooop" /></a>&nbsp;
+      <a href="https://sigil-ui.com"><img width="49%" src="https://www.kevin-liu.tech/images/sigil-ui.png" alt="Sigil UI" /></a>
+      <a href="https://www.agent-machines.dev"><img width="49%" src="https://www.kevin-liu.tech/images/agentmachines.png" alt="Agent Machines" /></a>&nbsp;
+      <a href="https://www.ptd.quest/"><img width="49%" src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/new/gameplay_grounds_ui.png" alt="Princeton Tower Defense" /></a>
     </td>
   </tr>
   <tr>
