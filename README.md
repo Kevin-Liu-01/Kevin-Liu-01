@@ -10,10 +10,11 @@
   </tr>
   <tr>
     <td colspan="7" align="center">
-      <a href="https://loooop.dev/"><img width="49%" src="https://raw.githubusercontent.com/Kevin-Liu-01/PortfolioMon-Showdown/main/public/images/loop-homepage.png" alt="Loooop" /></a>&nbsp;
-      <a href="https://sigil-ui.dev"><img width="49%" src="https://www.kevin-liu.tech/images/sigil-ui.png" alt="Sigil UI" /></a>
-      <a href="https://www.agent-machines.dev"><img width="49%" src="https://www.kevin-liu.tech/images/agentmachines.png" alt="Agent Machines" /></a>&nbsp;
-      <a href="https://www.ptd.quest/"><img width="49%" src="https://raw.githubusercontent.com/Kevin-Liu-01/Princeton-Tower-Defense/main/public/images/new/gameplay_grounds_ui.png" alt="Princeton Tower Defense" /></a>
+      <a href="https://cot.kevinliu.studio/"><img width="49%" src="assets/claude-of-tanks.webp" alt="Claude of Tanks: a camouflaged tank in tall grass with an explosion behind it" /></a>
+      <a href="https://www.kevinliu.studio/"><img width="49%" src="assets/kevinliu-studio.webp" alt="kevinliu.studio: the wall of project cards" /></a>
+      <br />
+      <a href="https://katagami.kevinliu.studio/"><img width="49%" src="assets/katagami.webp" alt="Katagami: the type specimen with the word Katagami drawn as outlines and points" /></a>
+      <a href="https://www.glyphfield.com/studio"><img width="49%" src="assets/glyphfield.webp" alt="Glyphfield Studio: the Design Lab with General Translation artboards" /></a>
     </td>
   </tr>
   <tr>
