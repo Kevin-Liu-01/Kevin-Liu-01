@@ -1,15 +1,13 @@
 <table width="100%">
   <tr>
-    <td valign="middle">&nbsp;&nbsp;<font size="6"><b>👋&nbsp; About Me</b></font></td>
-    <td align="center"><a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img width="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
-    <td align="center"><a href="https://twitter.com/kevskgs" title="X / Twitter"><img width="26" src="https://cdn.simpleicons.org/x/ffffff"></a></td>
-    <td align="center"><a href="https://devpost.com/Kevin-Liu-01" title="Devpost"><img width="26" src="https://cdn.simpleicons.org/devpost/003E54"></a></td>
-    <td align="center"><a href="https://www.kevin-liu.tech/" title="kevin-liu.tech"><img width="26" src="https://kliu.vercel.app/images/logo.png"></a></td>
-    <td align="center"><a href="https://dedaluslabs.ai" title="Dedalus Labs"><img width="26" src="https://dedaluslabs.ai/apple-touch-icon.png"></a></td>
-    <td align="center"><a href="https://www.loooop.dev/" title="Loop"><img width="26" src="https://raw.githubusercontent.com/Kevin-Liu-01/loop/main/app/icon.svg"></a></td>
+    <td valign="middle">
+      <a href="https://x.com/kevskgs" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="right" hspace="6" width="26" alt="X" src="https://cdn.simpleicons.org/x/000000"></picture></a>
+      <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+      <b>👋&nbsp; About Me</b>
+    </td>
   </tr>
   <tr>
-    <td colspan="7" align="center">
+    <td align="center">
       <a href="https://cot.kevinliu.studio/"><img width="49%" src="assets/claude-of-tanks.webp" alt="Claude of Tanks: a camouflaged tank in tall grass with an explosion behind it" /></a>
       <a href="https://www.kevinliu.studio/"><img width="49%" src="assets/kevinliu-studio.webp" alt="kevinliu.studio: the wall of project cards" /></a>
       <br />
@@ -18,8 +16,8 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>languages</b></td>
-    <td colspan="6">
+    <td>
+      <b>languages</b><br />
       <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
       <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57"/>
       <img src="https://img.shields.io/badge/-Rust-111?style=flat-square&logo=rust&logoColor=DEA584"/>
@@ -29,8 +27,8 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>frontend</b></td>
-    <td colspan="6">
+    <td>
+      <b>frontend</b><br />
       <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
@@ -41,8 +39,8 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>agents / ai</b></td>
-    <td colspan="6">
+    <td>
+      <b>agents / ai</b><br />
       <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
       <img src="https://img.shields.io/badge/-AI%20SDK-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
@@ -53,8 +51,8 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>infra</b></td>
-    <td colspan="6">
+    <td>
+      <b>infra</b><br />
       <img src="https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688"/>
       <img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
       <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
