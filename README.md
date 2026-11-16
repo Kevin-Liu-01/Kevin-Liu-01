@@ -13,7 +13,7 @@
       <a href="https://cot.kevinliu.studio/"><img width="49%" src="assets/claude-of-tanks.webp" alt="Claude of Tanks: a camouflaged tank in tall grass with an explosion behind it" /></a>
       <a href="https://www.kevinliu.studio/"><img width="49%" src="assets/kevinliu-studio.webp" alt="kevinliu.studio: the wall of project cards" /></a>
       <br />
-      <a href="https://katagami.kevinliu.studio/"><img width="49%" src="assets/katagami.webp" alt="Katagami: the type specimen with the word Katagami drawn as outlines and points" /></a>
+      <a href="https://katagami.kevinliu.studio/"><img width="49%" src="assets/katagami.webp" alt="Katagami: the word Katagami drawn as outlines with Bezier points and font metrics" /></a>
       <a href="https://www.glyphfield.com/studio"><img width="49%" src="assets/glyphfield.webp" alt="Glyphfield Studio: the Design Lab with General Translation artboards" /></a>
     </td>
   </tr>
