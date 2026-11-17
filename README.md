@@ -3,7 +3,7 @@
     <td valign="middle">
       <a href="https://x.com/kevskgs" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="right" hspace="4" width="26" alt="X" src="https://cdn.simpleicons.org/x/000000"></picture></a>
       <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img align="right" hspace="4" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
-      <b>👋&nbsp; Kevin, lifts &amp; ships</b>
+      <b>Lift, ship, and draw</b>
     </td>
   </tr>
   <tr>
