@@ -1,9 +1,9 @@
 <table width="100%">
   <tr>
     <td valign="middle">
-      <a href="https://x.com/kevskgs" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="right" hspace="4" width="26" alt="X" src="https://cdn.simpleicons.org/x/000000"></picture></a>
-      <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img align="right" hspace="4" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
-      <b>Lift, ship, and draw</b>
+      <a href="https://x.com/kevskgs" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="right" width="26" alt="X" src="https://cdn.simpleicons.org/x/000000"></picture></a>
+      <a href="https://www.linkedin.com/in/kevin-liu-2495b6205/" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+      <a href="https://www.kevinliu.studio/" title="kevinliu.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevin-Liu-01/Kevin-Liu-01/main/assets/kl-dark.svg"><img width="22" align="absmiddle" alt="kevinliu.studio" src="https://raw.githubusercontent.com/Kevin-Liu-01/Kevin-Liu-01/main/assets/kl-light.svg"></picture></a> <b>Lift, Ship, Repeat&nbsp;ᝮ</b>
     </td>
   </tr>
   <tr>
